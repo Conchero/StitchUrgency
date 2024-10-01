@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 886d7dfb3e4786c4c8f295e1fb889279
+  - enabled: 1
+    path: Assets/Scenes/MedicalRoomScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: fdcec62c30217e84a9e1b44492a5c50c, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 181bedc5bc3b072458c8fec2fad87cc2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c7a578720dd5aef4c90f1746d35f2db7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0f4da41738c470444a994a266b356f92, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 8d2da14845fd19846978fec9a64abf92, type: 2}
